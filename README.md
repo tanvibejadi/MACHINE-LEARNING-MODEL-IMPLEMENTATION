@@ -62,3 +62,10 @@ This project lays the groundwork for further enhancements such as hyperparameter
 
 #OUTPUT
 
+<img width="1784" height="270" alt="Image" src="https://github.com/user-attachments/assets/e770a457-d335-407f-9e87-4b2b7da2ed52" />
+
+<img width="685" height="331" alt="Image" src="https://github.com/user-attachments/assets/b3e3203f-51bd-4da2-be43-15c085ca09b0" />
+
+<img width="958" height="903" alt="Image" src="https://github.com/user-attachments/assets/5ba8820a-436e-4706-9543-04716a4f075c" />
+
+<img width="902" height="863" alt="Image" src="https://github.com/user-attachments/assets/e298b395-a953-44ba-ac65-dc144b2e47bc" />
